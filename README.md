@@ -32,7 +32,7 @@ LinkedIn : https://www.linkedin.com/in/devny/
 
 * **앱 서비스 종료**
 
-![pastedGraphic.png](Resume/resources/00334B709545F83D2E96E0A948F11649.png)![pastedGraphic\_1.png](quiver-image-url/7EF2143C1F72D31467D5718EC0028C07.png)![pastedGraphic\_2.png](quiver-image-url/0CB7D86AF40870719C5D37A0FA8F9325.png)
+![pastedGraphic.png](Resume/resources/정복자_0.png)![pastedGraphic\_1.png](Resume/resources/정복자_1.png)![pastedGraphic\_2.png](Resume/resources/정복자_2.png)
 
 ### **다방 1차 리뉴얼**
 
@@ -67,7 +67,7 @@ UITableView의 Form 구성 편의를 위해 Eureka 적용
 
 * **AppStore([https://itunes.apple.com/kr/app/다방-1-500만의 선택-부동산-필수앱/id814840066?mt=8](https://itunes.apple.com/kr/app/%25EB%258B%25A4%25EB%25B0%25A9-1-500%25EB%25A7%258C%25EC%259D%2598-%25EC%2584%25A0%25ED%2583%259D-%25EB%25B6%2580%25EB%258F%2599%25EC%2582%25B0-%25ED%2595%2584%25EC%2588%2598%25EC%2595%25B1/id814840066?mt=8))**
 
-![](quiver-image-url/E8F7B8D70EB032E06D1A7BA2E94E91DE.jpg)
+![](Resume/resources/다방_4.png)
 ****
 
 ## **개인 프로젝트**
@@ -85,5 +85,5 @@ UITableView의 Form 구성 편의를 위해 Eureka 적용
 학생들이 자주 타는 버스의 도착시간, 현재 위치 등의 정보를 안내
 * **앱 서비스 종료**
 
-![pastedGraphic\_3.png](quiver-image-url/8CA99441EA358EFF1DF1012D7ABD9DFC.png)![pastedGraphic\_4.png](quiver-image-url/A77DA4136DFD2B181A0AED8964A8BA36.png)![pastedGraphic\_5.png](quiver-image-url/030CACBE2F047E829FEE908004CA5AD8.png)
+![pastedGraphic\_3.png](Resume/resources/InfoCampus_0.png)![pastedGraphic\_4.png](Resume/resources/InfoCampus_1.png)![pastedGraphic\_5.png](Resume/resources/InfoCampus_2.png)
 ****

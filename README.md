@@ -32,7 +32,7 @@ LinkedIn : https://www.linkedin.com/in/devny/
 
 * **앱 서비스 종료**
 
-**![pastedGraphic.png](quiver-image-url/00334B709545F83D2E96E0A948F11649.png)![pastedGraphic\_1.png](quiver-image-url/7EF2143C1F72D31467D5718EC0028C07.png)![pastedGraphic\_2.png](quiver-image-url/0CB7D86AF40870719C5D37A0FA8F9325.png)**
+![pastedGraphic.png](Resume/resources/00334B709545F83D2E96E0A948F11649.png)![pastedGraphic\_1.png](quiver-image-url/7EF2143C1F72D31467D5718EC0028C07.png)![pastedGraphic\_2.png](quiver-image-url/0CB7D86AF40870719C5D37A0FA8F9325.png)
 
 ### **다방 1차 리뉴얼**
 

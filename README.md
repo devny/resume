@@ -6,7 +6,7 @@ LinkedIn : https://www.linkedin.com/in/devny/
 
 ---
 
-# 경력
+## 경력
 
 ###  Zipbrothers
 
@@ -17,9 +17,7 @@ LinkedIn : https://www.linkedin.com/in/devny/
  2017.03.13 ~ 현재 / iOS 개발팀 사원
 
 ---
-# **회사 프로젝트**
-
-****
+## **회사 프로젝트**
 
 ### 정복자
 
@@ -67,12 +65,10 @@ UITableView의 Form 구성 편의를 위해 Eureka 적용
 
 * **AppStore([https://itunes.apple.com/kr/app/다방-1-500만의 선택-부동산-필수앱/id814840066?mt=8](https://itunes.apple.com/kr/app/%25EB%258B%25A4%25EB%25B0%25A9-1-500%25EB%25A7%258C%25EC%259D%2598-%25EC%2584%25A0%25ED%2583%259D-%25EB%25B6%2580%25EB%258F%2599%25EC%2582%25B0-%25ED%2595%2584%25EC%2588%2598%25EC%2595%25B1/id814840066?mt=8))**
 
-![pastedGraphic\_3.png](Resume/resources/다방_4.png)
+![pastedGraphic\_3.png](Resume/resources/다방_4.jpg)
 ****
 
-# **개인 프로젝트**
-
-****
+## **개인 프로젝트**
 
 ### **InfoCampus**
 

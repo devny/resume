@@ -63,8 +63,6 @@ UITableView의 Form 구성 편의를 위해 Eureka 적용
 * **상세설명 :**
 앱 내 다중 필터 기능 적용과 오피스텔 매물 추가를 위한 프로젝트
 
-* **AppStore([https://itunes.apple.com/kr/app/다방-1-500만의 선택-부동산-필수앱/id814840066?mt=8](https://itunes.apple.com/kr/app/%25EB%258B%25A4%25EB%25B0%25A9-1-500%25EB%25A7%258C%25EC%259D%2598-%25EC%2584%25A0%25ED%2583%259D-%25EB%25B6%2580%25EB%258F%2599%25EC%2582%25B0-%25ED%2595%2584%25EC%2588%2598%25EC%2595%25B1/id814840066?mt=8))**
-
 ****
 
 ### **다방 분양 업데이트**
@@ -77,7 +75,7 @@ UITableView의 Form 구성 편의를 위해 Eureka 적용
 행복주택, 분양일정, 분양 알림, 면적 정보 출력 구현
 분양 리스트를 지역(시 단위), 건물 유형, 분양 단계, 공급 유형 등으로 필터 기능 구현
 
-* **AppStore([[https://itunes.apple.com/kr/app/다방-1-500만의 선택-부동산-필수앱/id814840066?mt=8]]**
+* **AppStore([https://itunes.apple.com/kr/app/다방-1-500만의 선택-부동산-필수앱/id814840066?mt=8](https://itunes.apple.com/kr/app/%25EB%258B%25A4%25EB%25B0%25A9-1-500%25EB%25A7%258C%25EC%259D%2598-%25EC%2584%25A0%25ED%2583%259D-%25EB%25B6%2580%25EB%258F%2599%25EC%2582%25B0-%25ED%2595%2584%25EC%2588%2598%25EC%2595%25B1/id814840066?mt=8))**
 
 ![pastedGraphic\_3.png](Resume/resources/다방_4.jpg)
 ****

@@ -91,7 +91,7 @@ UITableView의 Form 구성 편의를 위해 Eureka 적용
 나이스 본인 인증을 사용한 인증 구현.
 * **AppStore([https://itunes.apple.com/kr/app/방주인-스마트한-공실-관리/id1438069281](https://itunes.apple.com/kr/app/방주인-스마트한-공실-관리/id1438069281))**
 
-![pastedGraphic\_3.png](Resume/resources/InfoCampus_0.png)![pastedGraphic\_4.png](Resume/resources/InfoCampus_1.png)![pastedGraphic\_5.png](Resume/resources/InfoCampus_2.png)
+![pastedGraphic\_3.png](Resume/resources/방주인_0.png)![pastedGraphic\_4.png](Resume/resources/방주인_1.png)![pastedGraphic\_5.png](Resume/resources/방주인_2.png)![pastedGraphic\_5.png](Resume/resources/방주인_3.png)
 ****
 
 ## **개인 프로젝트**

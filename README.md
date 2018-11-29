@@ -80,6 +80,23 @@ UITableView의 Form 구성 편의를 위해 Eureka 적용
 ![pastedGraphic\_3.png](Resume/resources/다방_4.jpg)
 ****
 
+### **방주인**
+
+* **소속 : Station3**
+* **역할 : iOS 앱 개발**
+* **사용기술 : Alamofire, RxSwift, Stevia, ReSwift, PromiseKit, Gloss 등**
+* **상세설명 :**
+부동산 매물 등록부터 광고까지 다방 파트너 중개사와 연결하여 손쉽게 관리할 수 있는 앱
+공실현황(광고 준비, 확인 매물, 일반 매물) 파악 및 확인 매물 승인 기능 구현
+나이스 본인 인증을 사용한 인증 구현.
+* **AppStore([https://itunes.apple.com/kr/app/방주인-스마트한-공실-관리/id1438069281](https://itunes.apple.com/kr/app/방주인-스마트한-공실-관리/id1438069281))**
+
+![pastedGraphic.png](Resume/resources/방주인_0.png)
+![pastedGraphic\_1.png](Resume/resources/방주인_1.png)
+![pastedGraphic\_2.png](Resume/resources/방주인_2.png)
+![pastedGraphic\_3.png](Resume/resources/방주인_3.png)
+****
+
 ## **개인 프로젝트**
 
 ### **InfoCampus**
